@@ -1,4 +1,4 @@
-Data Analysis of Amazon Great Indian Sales using Python
+### Data Analysis of Amazon Great Indian Sales using Python
 This project delves into the Amazon Great Indian Sale, leveraging Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to conduct a comprehensive Exploratory Data Analysis (EDA) of the sales data. The primary objective is to uncover key trends and actionable insights related to customer demographics, purchasing behavior, and regional sales patterns.
 
 Key Insights and Findings
